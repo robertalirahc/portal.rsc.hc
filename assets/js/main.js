@@ -1,0 +1,4 @@
+
+const b=document.querySelector('.menu-btn'),n=document.querySelector('.nav');b?.addEventListener('click',()=>{n.classList.toggle('open');b.setAttribute('aria-expanded',n.classList.contains('open'))});
+function setupSearch(inputSel,itemSel,emptySel){const i=document.querySelector(inputSel),items=[...document.querySelectorAll(itemSel)],e=document.querySelector(emptySel);if(!i)return;i.addEventListener('input',()=>{const q=i.value.normalize('NFD').replace(/[\u0300-\u036f]/g,'').toLowerCase();let c=0;items.forEach(x=>{const t=(x.textContent+' '+(x.dataset.tags||'')).normalize('NFD').replace(/[\u0300-\u036f]/g,'').toLowerCase();const ok=!q||t.includes(q);x.classList.toggle('hidden',!ok);if(ok)c++});if(e)e.hidden=c>0})}
+setupSearch('#doc-search','.search-item','#no-docs');setupSearch('#faq-search','.faq details','#no-faq');
