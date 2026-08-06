@@ -1,0 +1,183 @@
+Manual de Localização e Solicitação de
+Documentos Funcionais
+Este guia tem como objetivo orientar os(as) servidores(as) na busca e obtenção de documentos
+da sua vida funcional. O intuito é facilitar o acesso à informação, promovendo autonomia e
+agilidade.
+
+
+Para garantir o sucesso na localização dos arquivos, é fundamental que o interessado tenha
+ciência do período de emissão e a natureza do documento desejado. Muitos registros já estão
+disponíveis digitalmente e podem ser acessados imediatamente por você.
+
+
+Abaixo, apresentamos os canais de busca e o passo a passo para cada um.
+
+
+
+
+1. Autoatendimento: Onde buscar documentos digitais
+Antes de abrir um processo administrativo, verifique se o documento já está disponível nas
+plataformas digitais.
+
+
+SOUGOV.BR (Assentamento Funcional Digital)
+O SOUGOV.BR centraliza sua vida funcional. Lá, você pode encontrar o seu Assentamento
+Funcional Digital. Os servidores que ingressaram em data anterior ao ano de 2016, poderão
+encontrar seu "Legado", que contém a digitalização da sua pasta funcional física com
+documentos produzidos ao longo do tempo, até 2016.
+
+
+1. Realize o login no SouGov.br (via aplicativo ou versão web: gov.br/sougov);
+
+2. No menu de Autoatendimento, clique em Assentamento Funcional Digital;
+3. A pasta funcional estará disponível de acordo com o vínculo escolhido pelo servidor. O
+Assentamento estará sob o título “Legado”.
+
+Documentos produzidos a partir de 2016 poderão estar disponíveis sob o título do assunto do
+documento. Ex:
+
+
+
+
+Boletim Oficial (B.O.) da UFPE
+Para documentos internos publicados a partir de 19 de novembro de 2020 (B.O. nº 55/2020 em
+diante).
+
+
+1. Acesse:https://sipac.ufpe.br/public/visualizaBoletins.do?publico=true;
+2. Oriente-se pelo número e ano do Boletim Oficial onde o ato deveria constar.
+
+        Ex: caso esteja buscando por uma portaria de designação como chefe de unidade cujo
+período iniciou em janeiro de 2021, é esperado que a publicação tenha sido realizada no fim de
+2020 ou início de 2021;
+
+3. Faça o download do arquivo correspondente.
+
+4. As publicações realizadas entre os anos de 2020 e 2005 estão disponíveis no site da UFPE
+através do link https://www.ufpe.br/progepe/boletim-oficial. Para acessar os documentos
+pertinentes oriente-se como descrito no item 2 deste tópico.
+
+
+
+
+5. Com o objetivo de facilitar o trabalho de pesquisa com a documentação de que trata o item
+anterior,   a   Seção     de   Arquivo   de   Pessoal   torna   disponível   através   do   link
+https://drive.google.com/drive/folders/1FSJEgpZMbSyWo_5fcgdCEnFNLVGRI-e6?usp=sharing
+uma pasta no Google Drive com todo aquele conjunto de publicações.
+
+5.1. Uma vez acessado o link, a pasta estará disponível no Google Drive do usuário, na aba
+“Compartilhados comigo”, identificada com o nome “BOLETIM OFICIAL/UFPE”.
+
+5.2. Restrinja a pesquisa a essa pasta clicando na seta ao lado do seu nome na linha de
+endereço e depois, nas caixas de seleção que serão abertas, clicando em “Informações da
+pasta” e “Pesquisar em BOLETIM OFICIAL / UFPE” como indicado na imagem abaixo.
+5.3. Use a barra de pesquisas do Drive para filtrar os arquivos por seu nome ou matrícula
+SIAPE. (OBS: O processo de filtragem é mais eficiente quando o objeto de pesquisa é colocado
+entre aspas, Ex: “113xxxx”)
+
+Diário Oficial da União (D.O.U.)
+Para portarias e atos oficiais de alcance federal (nomeações, exonerações, aposentadorias).
+
+
+1. Acesse: https://in.gov.br/leiturajornal;
+
+2. Na barra de busca, digite seu nome completo entre aspas (ex: "João José da Silva") para
+filtrar a busca exata;
+
+3. Clique em Pesquisa Avançada;
+
+4. No campo "JORNAL", selecione Seção 2 (dedicada a atos de pessoal);
+5. Nos resultados, identifique o ato desejado, acesse e faça o download ou a impressão.
+
+
+
+
+SIPAC (Processos Eletrônicos)
+Processos iniciados a partir de 2019 já nasceram digitais e estão disponíveis no SIPAC.
+Processos anteriores a essa data são físicos (veja a seção "Arquivo de Pessoal").
+
+
+1. Acesse o SIPAC (https://sipac.ufpe.br/public/jsp/portal.jsf) e faça login com suas credenciais;
+1. Clique na opção Mesa Virtual.
+
+
+
+
+3. No canto superior direito, clique na opção “PROCESSOS PENDENTES DE RECEBIMENTO
+NA UNIDADE” e selecione “em CONSULTA GERAL DE PROCESSOS”.
+4. Expanda as opções de filtro clicando no sinal de adição (+) em Interessados no Processo.
+
+
+
+
+5. Em "Nome do Interessado", digite seu nome completo e clique em “Buscar”.
+
+           ○​ Atenção: Caso tenha havido alteração de nome (casamento, divórcio, nome
+               social, etc.), lembre-se de buscar também pelo nome utilizado à época do
+               documento.
+
+6. Dica de Busca: Procure por tipos de processos congruentes com o tema. [Procure por tipos
+de processos que tenham relação direta com o tema que você está pesquisando]
+
+           ○​ Exemplo: Se busca uma chefia, procure por "DESIGNACAO" ou "FUNCAO
+               GRATIFICADA".
+           ○​ Nota: Processos antigos podem estar classificados com títulos genéricos, como
+               "PEDIDOS, OFERECIMENTOS E INFORMACOES DIVERSAS". Passe o cursor
+               sobre o número do processo para ler o assunto detalhado.
+
+7. Ao encontrar o processo, clique no número dele;
+
+8. No menu lateral esquerdo, clique em Documentos;
+9. Para visualizar, clique sobre o nome do documento (se estiver em PDF, abrirá na janela ao
+lado da lista de documentos);
+
+10. Para baixar:
+
+           ○​ Utilize o ícone destacado na primeira imagem para baixar com a folha de
+               assinaturas (se produzido fora do SIPAC) ou o ícone destacado na segunda
+               imagem (se produzido no SIPAC).
+11. Processos anteriores a 2019 não terão documentos em anexo. Para verificação da
+documentação física junto ao Arquivo de Pessoal, o solicitante deverá apresentar o número do
+processo, conforme instruções a seguir.
+
+
+
+
+2. Solicitação ao Arquivo de Pessoal (Documentos
+Físicos)
+Se o documento é anterior a 2019 e não foi encontrado no SOUGOV, Boletim Oficial da UFPE,
+Diário oficial da União ou na busca do SIPAC, ele provavelmente faz parte do acervo físico
+custodiado pela Seção de Arquivo de Pessoal (PROGEPE) ou pela Coordenação do Arquivo
+Geral (PROAD).
+
+
+Para que possamos atender sua demanda com eficiência e precisão, precisamos que a
+solicitação seja específica.
+
+
+Como solicitar:​
+Abra um processo no SIPAC do tipo "SOLICITA DOCUMENTOS" contendo um documento do
+tipo REQUERIMENTO com as seguintes informações:
+
+
+    1.​ Nome completo;
+    2.​ Matrícula SIAPE;
+    3.​ Dados específicos dos documentos solicitados:
+            ○​ Tipo de documento (Ex: Portaria, Ata, Memorando);
+            ○​ Número do documento (se souber);
+            ○​ Período/Ano aproximado da emissão;
+            ○​ Número do processo associado (se houver).
+
+Importante: Limites da Pesquisa
+Para garantir que todos sejam atendidos em tempo hábil, não é viável realizar varreduras
+completas baseadas em solicitações genéricas.
+
+
+    ●​ Evite pedidos como: "Todas as portarias da minha vida funcional" ou "Todas as minhas
+        participações em comissões".
+    ●​ O que fazer: Tente delimitar ao máximo o período ou o contexto (ex: "Portarias de
+        designação entre os anos de 2005 e 2010").
+
+Quanto mais precisa for a informação fornecida, mais rápido conseguiremos localizar e
+disponibilizar a documentação para você. Contamos com sua colaboração.
+
