@@ -1,9 +1,0 @@
-VERSÃO CORRIGIDA DO PORTAL RSC
-
-1. Extraia todo o conteúdo do ZIP para uma pasta nova.
-2. Não abra arquivos de uma pasta antiga.
-3. Abra o arquivo index.html desta nova pasta.
-4. No FAQ, deve aparecer no topo um quadro azul com o texto “FAQ reorganizado por assunto” e nove botões de categorias.
-5. Todos os links foram configurados com target="_blank" e rel="noopener noreferrer".
-
-Arquivo de verificação: RELATORIO-ALTERACOES-VERIFICADAS.json
